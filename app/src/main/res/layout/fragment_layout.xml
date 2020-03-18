@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Folder Package -->
+<com.on29studio.ekazpraw.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="@drawable/splash_background" >
+    <!--  Tombol Lamp -->
+    <Button
+        android:id="@+id/btn_lamp"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_lamp"
+        android:text="@string/menu1" />
+    <!--  Tombol Help -->
+    <Button
+        android:id="@+id/btn_help"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_help"
+        android:text="@string/menu2" />
+    <!--  Tombol About -->
+    <Button
+        android:id="@+id/btn_about"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_about"
+        android:text="@string/menu3" />
+    <!--  Tombol Exit -->
+    <Button
+        android:id="@+id/btn_exit"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_exit"
+        android:text="@string/menu4" />
+</com.on29studio.ekazpraw.DashboardLayout>

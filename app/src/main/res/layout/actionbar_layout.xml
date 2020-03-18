@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ActionBarCompat"
+    android:background="#B3EAFF">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:clickable="false"
+        android:paddingLeft="15dp"
+        android:scaleType="center"
+        android:src="@drawable/logo"
+        android:paddingStart="15dp"
+        tools:ignore="RtlSymmetry" />
+</LinearLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart Lamp</string>
+    <string name="ruang1">Lampu 1</string>
+    <string name="ruang2">Lampu 2</string>
+    <string name="ruang3">Lampu 3</string>
+    <string name="ruang4">Lampu 4</string>
+    <string name="ruang5">Lampu 5</string>
+    <string name="ruang6">Lampu 6</string>
+    <string name="ruang7">Lampu 7</string>
+    <string name="ruang8">Lampu 8</string>
+    <string name="menu1">Menu Lampu</string>
+    <string name="menu2">Menu Bantuan</string>
+    <string name="menu3">Menu Tentang</string>
+    <string name="menu4">Menu Keluar</string>
+    <string name="txtPort">Port:</string>
+    <string name="hintPort">Masukkan Port, Contoh: 80</string>
+    <string name="hintIP">Masukkan IP, Contoh: 192.168.1.23</string>
+    <string name="textIP">IP Address:</string>
+    <string name="txtAbout">Aplikasi Kendali Lampu Dengan Arduino UNO dan ESP8266</string>
+    <string name="txtVersi">v 1.0.0</string>
+    <string name="jdlTentang">TENTANG KAMI:</string>
+    <string name="jdlBantu">PETUNJUK BANTU:</string>
+    <string name="jdlBantu1">MENU LAMPU:</string>
+    <string name="jdlBantu2">MENU BANTUAN:</string>
+    <string name="jdlBantu3">MENU TENTANG:</string>
+    <string name="jdlBantu4">MENU KELUAR:</string>
+    <string name="isiMenu1">1. Untuk monitoring lampu pada\nsetiap ruangan</string>
+    <string name="isiMenuLanjutan1">2. Pastikan smartphone sudah terhubung dengan jaringan wifi</string>
+    <string name="isiMenu2">1. Untuk bantuan penggunaan\naplikasi</string>
+    <string name="isiMenu3">1. Untuk mengetahui informasi\ntentang aplikasi</string>
+    <string name="isiMenu4">1. Untuk keluar dari aplikasi</string>
+</resources>
